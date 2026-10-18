@@ -2,7 +2,7 @@
 
 A web platform that connects rural clients with nearby skilled workers (tractor operators, electricians,
 plumbers, carpenters, harvesting teams and more). Final-year project, Dept. of Information Science & Engineering,
-Sapthagiri College of Engineering (VTU), 2025-26.
+Sapthagiri College of Engineering (VTU), 2026-27.
 
 **Team:** Aishwarya Manjunath Hegde, Bhumika, Chandana H Gowda, Kritika Manani · **Guide:** Prof. Gayathri R
 
