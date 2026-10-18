@@ -135,5 +135,3 @@ See the README.txt in that folder. Missing files fall back to the emoji.
 ## Future enhancements
 Secure payments (Razorpay/UPI) · more interface languages (Tamil, Telugu) · native Android app · maps (Leaflet / Google Maps)
 · real image recognition for service selection · email/SMS notifications · WebSocket chat.
-#   R u r a l - F r e e l a n c i n g - P l a t f o r m  
- 
